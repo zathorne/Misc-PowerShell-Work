@@ -1,4 +1,4 @@
-# Script: rolegather.ps1
+# Script: query_domain_servers.ps1
 # Author: Zach Thorne
 # Date 3-17-2020
 # Purpose: Gather all computer objects in the server OU and export name, hostname, and IP to CSV.
