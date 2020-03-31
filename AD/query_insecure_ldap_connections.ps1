@@ -2,6 +2,7 @@
 # Date: 3-31-2020
 # Purpose: Outputs events to CSV to assist in identifying apps using insecure LDAP connections
 # Related information: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/ldap-channel-binding-and-ldap-signing-requirements-march-2020/ba-p/921536
+# Start of Script
 # Prepare Variables
 Param (
         [parameter(Mandatory=$false,Position=0)][String]$ComputerName = "localhost",
